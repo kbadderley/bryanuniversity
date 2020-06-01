@@ -18,3 +18,9 @@ a:hover {
  img {
     float: left;
   }
+  .bl-ue{
+      color: blue;
+  }
+  table, th, td {
+    border: 1px solid black;
+  }
