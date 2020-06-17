@@ -1,0 +1,171 @@
+body {margin:0;}
+
+  .box-one {
+    border: 3px solid #F5C6D6;
+    height: 150px;
+    width: 1100px;
+    background-color: #F5C6D6;
+}
+.box-two {
+  border: 3px solid #EE2E84;
+  height: 150px;
+  width: 250px;
+  background-color: #EE2E84;
+  top: 200px;
+  position: absolute;
+  box-sizing: border-box;
+  }
+  .box-three {
+    border: 3px solid #EE2E84;
+    height: 150px;
+    width: 250px;
+    background-color: #EE2E84;
+    position: absolute;
+    box-sizing: border-box;
+    left: 280px;
+    }
+    .box-four{
+      border: 3px solid #EE2E84;
+      height: 150px;
+      width: 250px;
+      background-color: #EE2E84;
+      position: absolute;
+      box-sizing: border-box;
+      left: 280px;
+      }
+      .box-five{
+        border: 3px solid #EE2E84;
+        height: 150px;
+        width: 250px;
+        background-color: #EE2E84;
+        position: absolute;
+        box-sizing: border-box;
+        left: 280px;
+        }
+        .box-six {
+          border: 3px solid #85CFD8;
+          height: 150px;
+          width: 525px;
+          background-color: #85CFD8;
+          position: absolute;
+          bottom: 300px;
+          right: 0px;
+          top: 180px;
+      }
+      .box-seven {
+        border: 3px solid #85CFD8;
+        height: 150px;
+        width: 525px;
+        background-color: #85CFD8;
+        position: absolute;
+        bottom: 300px;
+        right: 550px;
+        top: 0px;
+      }
+      .box-eight {
+        border: 3px solid #8DC63F;
+        height: 150px;
+        width: 790px;
+        background-color: #8DC63F;
+        position: absolute;
+        bottom: 300px;
+        top: 180px;
+      }
+      .box-nine {
+        border: 3px solid #E76E34;
+        height: 150px;
+        width: 250px;
+        background-color:#E76E34;
+        position: absolute;
+        bottom: 300px;
+        top: 0px;
+        left: 820px;
+      }
+    
+      @media only screen and (max-width: 768px){
+
+        .box-one {
+          border: 3px solid #F5C6D6;
+          height: 60px;
+          width: 1100px;
+          background-color: #F5C6D6;
+        }
+      .box-two {
+        border: 3px solid #EE2E84;
+        height: 60px;
+        width: 1100px;
+        background-color: #EE2E84;
+        top: 70px;
+        position: absolute;
+        box-sizing: border-box;
+        }
+        .box-three {
+          border: 3px solid #EE2E84;
+          height: 60px;
+          width: 1100px;
+          background-color: #EE2E84;
+          position: absolute;
+          box-sizing: border-box;
+          top: 60px;
+          left: -3px;
+          
+          }
+          .box-four{
+            border: 3px solid #EE2E84;
+            height: 60px;
+            width: 1100px;
+            background-color: #EE2E84;
+            position: absolute;
+            box-sizing: border-box;
+            top: 60px;
+            left: -3px;
+            }
+
+            .box-five{
+              border: 3px solid #EE2E84;
+              height: 60px;
+              width: 1100px;
+              background-color: #EE2E84;
+              position: absolute;
+              box-sizing: border-box;
+              top: 60px;
+              left: -3px;
+              }
+              .box-six {
+                border: 3px solid #85CFD8;
+                height: 60px;
+                width: 1100px;
+                background-color: #85CFD8;
+                position: absolute;
+                left: -3px;
+                top: 60px;
+            }
+            .box-seven {
+              border: 3px solid #85CFD8;
+              height: 60px;
+              width: 1100px;
+              background-color: #85CFD8;
+              position: absolute;
+              top: 65px;
+              left: -3px;
+            }
+            .box-eight {
+              border: 3px solid #8DC63F;
+              height: 60px;
+              width: 1100px;
+              background-color: #8DC63F;
+              position: absolute;
+              top: 65px;
+              left: -3px;
+            }
+            .box-nine {
+              border: 3px solid #E76E34;
+              height: 60px;
+              width: 1100px;
+              background-color:#E76E34;
+              position: absolute;
+              top: 65px;
+              left: -3px;
+            }
+
+      }
